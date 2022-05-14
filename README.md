@@ -26,7 +26,19 @@ Projeto criado para a aula  de Git e GitHub com listagem de comandos utilizados.
 
 *git log": verificação de autoria do repositório e data.
 
-*git push*: envia atualizações do repositório local para o repositório remoto. 
+*git push*: enviadas atualizações do repositório local para o repositório remoto. 
+
+
+
+## Documentação GIT
+
+Consultar documentação [https://git-scm.com/doc]
+
+
+## Indicação de Aulas
+
+O que é Git e Git Hub? Gustavo Guanabara: [https://www.youtube.com/watch?v=GDGMf2bnHlE]
+
 
 *clear*: limpa comandos da tela do git. 
 
